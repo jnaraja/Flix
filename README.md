@@ -17,7 +17,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pt) User can view the app on various device sizes and orientations.
 - [ ] (1pt) Run your app on a real device.
 
-<img src="ezgif.com-video-to-gif.gif" width=250><br>
+<img src="https://media1.giphy.com/media/hoxQ5usLlLVt0gK7zi/giphy.gif" width=250><br>
 
 ### Notes
 I struggled with displaying the labels at first. After reviewing the code for about 15 minutes, I realized that I was missing these 2 lines of code:
