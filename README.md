@@ -32,7 +32,7 @@ Styling the the superhero scene was a challenge I faced. It currently looks the 
 
 #### BONUS
 - [x] (2pt) User can view the app on various device sizes and orientations.
-- [ ] (1pt) Run your app on a real device.
+- [x] (1pt) Run your app on a real device.
 
 <img src="https://media1.giphy.com/media/hoxQ5usLlLVt0gK7zi/giphy.gif" width=250><br>
 
